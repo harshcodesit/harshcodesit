@@ -31,7 +31,12 @@ no![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshcodesit&" alt="harshcodesit" /></p>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/harshcodesit/harshcodesit/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
-
-![snake gif](https://github.com/harshcodesit/harshcodesit/blob/output/github-contribution-grid-snake.svg)
