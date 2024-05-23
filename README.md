@@ -11,9 +11,9 @@ no![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747
 
 - 💬 Ask me about **JavaScript , MERN stack , Nodejs**
 
-- 📫 How to reach me **harshwardhan9352@gmail.com**
+- 📫 Reach me at **harshwardhan9352@gmail.com**
 
-- ⚡ Fun fact **I do think out of the box**
+- ⚡ **I do think out of the box**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
