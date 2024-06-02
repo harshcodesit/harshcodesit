@@ -53,7 +53,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshcodesit&theme=synthwave-84&true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshcodesit&theme=react-dark&true&hide_border=true" />
 </div>
 
 
