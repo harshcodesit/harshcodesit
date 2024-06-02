@@ -50,4 +50,10 @@
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshcodesit&theme=synthwave-84&true&hide_border=true" />
+</div>
+
 
