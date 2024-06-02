@@ -56,4 +56,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshcodesit&theme=react-dark&true&hide_border=true" />
 </div>
 
+<div align="center">
+  
+ ![gitartwork](gitartwork.svg)
+ 
+</div>
 
