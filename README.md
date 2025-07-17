@@ -28,10 +28,7 @@
 <hr>
 
 # 📊 GitHub Stats:
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/harshcodesit/count.svg" />
-</p>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=harshcodesit&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshcodesit&theme=dark&hide_border=false)<br/>
