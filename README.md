@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React , Figma**
 
-- 👨‍💻 All of my projects are available at [https://harshwardhan.dorik.io/](https://harshwardhan.dorik.io/)
+- 👨‍💻 All of my projects are available at [Harshwardhan | Portfolio](https://harshwardhan.dorik.io/](https://harshwardhan-singh.netlify.app/)
 
 - 💬 Ask me about **JavaScript , MERN stack , Nodejs**
 
